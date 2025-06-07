@@ -12,18 +12,19 @@ We present a non-invasive, pre-silicon framework for detecting stealthy hardware
 -  Traditional models, Deep Learning models  and Ensemble models
 - Training and evaluation scripts
 
-## Setup & Run
+## Setup & Run:
+```bash
 git clone https://github.com/puspa314/Trojan_Detection.git
 cd Trojan_Detection
 pip install -r requirements.txt
 
-run the scripts with Jupyter Notebbok
+run the scripts with Jupyter Notebook
 
 
 ## Raw power traces sourced from:
 Faezi et al., IEEE DataPort, DOI:10.21227/9fwb-8978
 
-##Contact:
+## Contact:
 Sefatun-Noor Puspa
 spuspa@clemson.edu
 
