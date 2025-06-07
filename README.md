@@ -17,9 +17,9 @@ We present a non-invasive, pre-silicon framework for detecting stealthy hardware
 git clone https://github.com/puspa314/Trojan_Detection.git
 cd Trojan_Detection
 pip install -r requirements.txt
+```
 
 run the scripts with Jupyter Notebook
-
 
 ## Raw power traces sourced from:
 Faezi et al., IEEE DataPort, DOI:10.21227/9fwb-8978
