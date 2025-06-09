@@ -24,7 +24,4 @@ run the scripts with Jupyter Notebook
 ## Raw power traces sourced from:
 Faezi et al., IEEE DataPort, DOI:10.21227/9fwb-8978
 
-## Contact:
-Sefatun-Noor Puspa
-spuspa@clemson.edu
 
